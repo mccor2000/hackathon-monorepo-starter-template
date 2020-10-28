@@ -1,1 +1,1 @@
-# hackathon-monorepo-starter-template
+# Hackathon Monorepo Starter Kit
